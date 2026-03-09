@@ -173,11 +173,10 @@ The filter effectively suppresses Nyquist image frequencies while preserving the
 ## Repository Structure
 
 ```bash.
-├── report
-│   └── SRTD_Internship_Report.pdf
-├── presentation
-│   └── SRTD_Final_Presentation.pdf
-└── images
+├── SRTD
+│   └── SRTD Report - Chilkunda Achutha Thyagaraju - RS02541.pdf
+│   └── RS02541-CHILKUNDA_ACHUTHA_THYAGARAJU.pptx
+└── Images
     ├── filter_response.png
     ├── circuit_schematic.png
     └── pcb_layout.png
